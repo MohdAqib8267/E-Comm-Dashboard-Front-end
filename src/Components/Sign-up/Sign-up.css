@@ -1,0 +1,39 @@
+.signup{
+    text-align: center;
+}
+.input{
+    text-align: center;
+    display: grid;
+    width: 25%;
+    position: absolute;
+    left: 38%;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.input input{
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 2px solid purple;
+    background-color: aliceblue;
+}
+h1{
+    font-family: emoji;
+    color: rgb(31, 12, 65);
+}
+.input button{
+    
+    width: 186px;
+    text-align: center;
+    position: absolute;
+    bottom: -13px;
+    left: 65px;
+    background-color: aqua;
+    border: 2px solid purple;
+    cursor: pointer;
+    padding: 5px;
+    
+}
+.input button:hover{
+    background-color: rgb(69, 36, 100);
+    cursor: pointer;
+}

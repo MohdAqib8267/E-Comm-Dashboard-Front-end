@@ -1,0 +1,41 @@
+.product-List{
+    margin-top: 11px;
+}
+.product-List ul li{
+    display: inline-block;
+    background-color: aliceblue;
+    border: 1px solid purple;
+    width: 130px;
+   
+    padding: 5px;
+    font-size: 19px;
+}
+.product-List ul{
+   
+    margin: 0;
+    
+}
+
+.links li:nth-child(6){
+    width: 59px;
+}
+.links li:nth-child(7){
+    width: 59px;
+    font-size: 14px;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+.updatebutton{
+    color: green;
+    text-decoration: nonde;
+    text-decoration: none;
+    border: 1px solid gray
+}
+.search{
+    width: 300px;
+    border: 1px solid purple;
+    padding: 10px;
+    margin-bottom: 15px;
+    background: aliceblue;
+}

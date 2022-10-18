@@ -1,0 +1,35 @@
+.login{
+    display: grid;
+    width: 22%;
+    position: absolute;
+    left: 38%;
+    top: 70px;
+    text-align: center;
+}
+.login input{
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    border: 2px solid purple;
+    padding: 5px;
+}
+h1{
+    font-family: emoji;
+    color: rgb(31, 12, 65);
+}
+.login button{
+    
+    width: 186px;
+    text-align: center;
+    position: absolute;
+    bottom: -15px;
+    left: 55px;
+    background: aqua;
+    border: 2px solid purple;
+    cursor: pointer;
+    padding: 5px;
+    
+}
+.login button:hover{
+    background-color: rgb(69, 36, 100);
+    cursor: pointer;
+}

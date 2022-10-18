@@ -1,0 +1,42 @@
+.UpdateProduct{
+    display: grid;
+    width: 30%;
+    position: absolute;
+    left: 34%;
+    padding: 25px;
+    background: aliceblue;
+    top: 133px;
+    border: 1px solid mediumpurple;
+    border-radius: 10px;
+    height: 49%;
+}
+.UpdateProduct input{
+    margin-bottom: 29px;
+    padding: 5px;
+    background: lightcyan;
+    border: 1px solid purple;
+    margin-top: -5px;
+}
+.UpdateProduct button{
+    
+    width: 186px;
+    text-align: center;
+    position: absolute;
+    bottom: 11px;
+    left: 132px;
+    background: aqua;
+    border: 2px solid purple;
+    cursor: pointer;
+    padding: 5px;
+    
+}
+.UpdateProduct button:hover{
+    background-color: rgb(69, 36, 100);
+    cursor: pointer;
+}
+h1{
+    font-family: emoji;
+    color: rgb(80 44 145);
+    margin-top: -8px;
+}
+

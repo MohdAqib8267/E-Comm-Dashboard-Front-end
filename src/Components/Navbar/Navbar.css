@@ -1,0 +1,43 @@
+.Nav-List li{
+    display: inline-block;
+    padding: 10px;
+  }
+  .Nav-List{
+    /* width: 100%; */
+    background-color: aqua;
+    padding: 10px;
+    margin: 0;
+
+  }
+  .logo{
+    width: 70px;
+    border-radius: 2px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  .Nav-List li a{
+    text-decoration: none;
+    /* text-size-adjust: inherit; */
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 20px;
+  }
+  .Nav-List li a:hover{
+    color: black;
+  }
+
+  .Nav-right{
+    text-align: right;
+  }
+  .Nav-right li{
+    background: mintcream;
+    padding: 10px;
+    border-radius: 35px;
+    margin-right: 8px;
+    text-align: center;
+  }
+  .Nav-right li a{
+    text-align: center;
+    margin-right: 15px;
+  }
